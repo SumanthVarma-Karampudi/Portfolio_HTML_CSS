@@ -248,6 +248,13 @@ background-image:linear-gradient(red,blue 50%);
 }
 
 /*Experience*/
+#experience{
+	height:auto;
+}
+#education{
+	height:auto;
+}
+
 /*TimeLine*/
 .timeline{
 	position:relative;
